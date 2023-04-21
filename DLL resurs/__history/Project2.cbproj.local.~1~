@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.590,=C:\Users\M\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,=C:\Users\M\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.501,=C:\Users\M\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.793,=C:\Users\M\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022.06.11 21:27:50.824,=C:\Users\M\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2022.06.11 21:27:50.855,=C:\Users\M\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2022.06.11 21:31:16.843,=C:\Users\M\Documents\Embarcadero\Studio\Projects\Win32\Debug\PokemonMoves\NA.png</Transaction>
+    <Transaction>2022.06.11 21:32:58.333,C:\Users\M\Documents\Embarcadero\Studio\Projects\DLLResource.cpp=C:\Users\M\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2022.06.11 21:45:05.772,C:\Users\M\Documents\Embarcadero\Studio\Projects\DLL resource thing\DLLResource.cpp=C:\Users\M\Documents\Embarcadero\Studio\Projects\DLLResource.cpp</Transaction>
+    <Transaction>2022.06.11 21:45:14.964,C:\Users\M\Documents\Embarcadero\Studio\Projects\DLL resource thing\Project2PCH1.h=C:\Users\M\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2022.06.11 21:45:16.898,C:\Users\M\Documents\Embarcadero\Studio\Projects\DLL resource thing\Project2.cbproj=C:\Users\M\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

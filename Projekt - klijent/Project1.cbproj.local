@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.743,C:\Users\M\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\M\Documents\Embarcadero\Studio\Projects\MainScreen.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.769,C:\Users\M\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\M\Documents\Embarcadero\Studio\Projects\AddNewPokeScreen.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.567,=C:\Users\M\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,C:\Users\M\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\M\Documents\Embarcadero\Studio\Projects\MainScreen.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.774,=C:\Users\M\Documents\Embarcadero\Studio\Projects\DownloadScreen.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.850,=C:\Users\M\Documents\Embarcadero\Studio\Projects\UpdatePokeRecordScreen.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.769,C:\Users\M\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\M\Documents\Embarcadero\Studio\Projects\AddNewPokeScreen.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.041,=C:\Users\M\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.339,=C:\Users\M\Documents\Embarcadero\Studio\Projects\EncryptedTCPChatBox.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.623,C:\Users\M\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\M\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.439,=C:\Users\M\Documents\Embarcadero\Studio\Projects\OptionsScreen.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.133,=C:\Users\M\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.769,C:\Users\M\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\M\Documents\Embarcadero\Studio\Projects\AddNewPokeScreen.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.743,C:\Users\M\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\M\Documents\Embarcadero\Studio\Projects\MainScreen.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="MainScreen.cpp"/>
+    <File Path="MainScreen.cpp"/>
+    <File Path="MainScreen.dfm"/>
+    <File Path="MainScreen.h"/>
+    <File Path="AddNewPokeScreen.cpp"/>
+    <File Path="AddNewPokeScreen.cpp"/>
+    <File Path="AddNewPokeScreen.dfm"/>
+    <File Path="AddNewPokeScreen.h"/>
+    <File Path="DownloadScreen.cpp"/>
+    <File Path="DownloadScreen.cpp"/>
+    <File Path="DownloadScreen.dfm"/>
+    <File Path="DownloadScreen.h"/>
+    <File Path="EncryptedTCPChatBox.cpp"/>
+    <File Path="EncryptedTCPChatBox.cpp"/>
+    <File Path="EncryptedTCPChatBox.dfm"/>
+    <File Path="EncryptedTCPChatBox.h"/>
+    <File Path="OptionsScreen.cpp"/>
+    <File Path="OptionsScreen.cpp"/>
+    <File Path="OptionsScreen.dfm"/>
+    <File Path="OptionsScreen.h"/>
+    <File Path="UpdatePokeRecordScreen.cpp"/>
+    <File Path="UpdatePokeRecordScreen.cpp"/>
+    <File Path="UpdatePokeRecordScreen.dfm"/>
+    <File Path="UpdatePokeRecordScreen.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

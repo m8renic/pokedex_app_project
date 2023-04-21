@@ -1,0 +1,10 @@
+Connected to server on IP: 127.0.0.1
+
+
+575C5184EA05D720D300BC617BB873B0B6D3E2A7A9E56ED4A2B5949DD7860466
+
+Message: ClientIPChange
+Message: !127.0.0.1-
+Added user 127.0.0.1 to list of users!
+Sent <M> fhagouhgfioahf to server.
+Disconnected from server!

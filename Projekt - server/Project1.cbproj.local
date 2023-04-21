@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.843,=C:\Users\M\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.294,C:\Users\M\Desktop\NTP\Server\ManageUsersScreen.cpp=C:\Users\M\Desktop\NTP\Server\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.294,C:\Users\M\Desktop\NTP\Server\ManageUsersScreen.h=C:\Users\M\Desktop\NTP\Server\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.080,C:\Users\M\Desktop\NTP\Server\Project1PCH1.h=C:\Users\M\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.754,=C:\Users\M\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.382,C:\Users\M\Desktop\NTP\Server\Project1.cbproj=C:\Users\M\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.294,C:\Users\M\Desktop\NTP\Server\ManageUsersScreen.dfm=C:\Users\M\Desktop\NTP\Server\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.446,C:\Users\M\Desktop\NTP\Server\ServerInterface.dfm=C:\Users\M\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.446,C:\Users\M\Desktop\NTP\Server\ServerInterface.cpp=C:\Users\M\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.446,C:\Users\M\Desktop\NTP\Server\ServerInterface.h=C:\Users\M\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.874,=C:\Users\M\Desktop\NTP\Server\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
